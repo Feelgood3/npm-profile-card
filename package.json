@@ -1,6 +1,6 @@
 {
   "name": "feelgoodv3",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Personal card for npm library",
   "main": "/bin/card.js",
   "scripts": {
